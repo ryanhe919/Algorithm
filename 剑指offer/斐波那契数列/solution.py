@@ -13,7 +13,7 @@ def fib_2(n):
         return 1
     n_1 = 0
     n_2 = 1
-    for i in range(n - 1):
+    for _ in range(n - 1):
         result = n_1 + n_2
         n_1 = n_2
         n_2 = result
