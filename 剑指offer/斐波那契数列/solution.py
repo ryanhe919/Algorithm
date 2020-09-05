@@ -1,14 +1,12 @@
-**方法1:**  递归
 
-``` python
-def fib(n):
+# 递归
+
+def fib_1(n):
     return n if n == 0 or n == 1 else fib(n - 1) + fib(n - 2)
-```
 
-**方法2:**  迭代
+# 迭代
 
-``` python
-def fib(n):
+def fib_2(n):
     if n == 0:
         return 0
     if n == 1:
@@ -20,4 +18,3 @@ def fib(n):
         n_1 = n_2
         n_2 = result
     return result 
-```
