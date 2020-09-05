@@ -1,5 +1,3 @@
-**方法1：** 动态规划
-``` python
 def numWays(n):
     if n == 0 or n == 1:
         return 1
@@ -12,4 +10,3 @@ def numWays(n):
         n_1 = n_2
         n_2 = result
     return result
-```
