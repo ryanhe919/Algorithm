@@ -1,4 +1,4 @@
-**方法1：**哈希表
+**方法1：** 哈希表
 
 ``` python
 def findRepeatNumber(nums):
