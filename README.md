@@ -13,3 +13,9 @@
 |剑指offer 10-II|[青蛙跳台阶问题](/剑指offer/青蛙跳台阶问题/Question.md)|[解答](/剑指offer/青蛙跳台阶问题/Solution.md)|
 |剑指offer 49|[丑数](/剑指offer/丑数/Question.md)|[解答](/剑指offer/丑数/Solution.md)|
 
+
+### 常用算法
+#### 排序算法
+| 01 | [快排](/常用算法/排序算法/quicksort.md)|
+|:-|:-|
+
