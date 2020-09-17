@@ -11,6 +11,10 @@
 | 剑指offer 09    | [用两个栈实现队列](/剑指offer/用两个栈实现队列/Question.md) | [解答](/剑指offer/用两个栈实现队列/Solution.md) |
 |剑指offer 10-I|[斐波那契数列](/剑指offer/斐波那契数列/Question.md)|[解答](/剑指offer/斐波那契数列/Solution.md)|
 |剑指offer 10-II|[青蛙跳台阶问题](/剑指offer/青蛙跳台阶问题/Question.md)|[解答](/剑指offer/青蛙跳台阶问题/Solution.md)|
+|剑指offer 32-I|[从上到下打印二叉树1](/剑指offer/从上到下打印二叉树1/Question.md)|[解答](/剑指offer/从上到下打印二叉树1/Solution.md)|
+|剑指offer 32-II|[从上到下打印二叉树2](/剑指offer/从上到下打印二叉树2/Question.md)|[解答](/剑指offer/从上到下打印二叉树2/Solution.md)|
+|剑指offer 32-III|[从上到下打印二叉树3](/剑指offer/从上到下打印二叉树3/Question.md)|[解答](/剑指offer/从上到下打印二叉树3/Solution.md)|
+
 |剑指offer 49|[丑数](/剑指offer/丑数/Question.md)|[解答](/剑指offer/丑数/Solution.md)|
 
 
